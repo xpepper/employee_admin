@@ -1,2 +1,3 @@
 # Employee Admin
-A super trivial backend to deal with employee registration
+A super trivial backend to deal with employee registration.
+
